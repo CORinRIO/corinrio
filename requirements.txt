@@ -1,6 +1,6 @@
 certifi==2017.7.27.1
 chardet==3.0.4
-Django==1.10.7
+Django==1.11.28
 django-widget-tweaks==1.4.1
 gunicorn==19.7.1
 idna==2.6
